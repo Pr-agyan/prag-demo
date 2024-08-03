@@ -1,4 +1,4 @@
 # prag-demo
 First git repository
 <br>
-aurthor - Pragyan
+aurthor - Pragyan(apna college)
